@@ -1,7 +1,5 @@
 # super-octo-waffle909090
 
-git add .
-git commit -m "Improve README documentation
+Small update
 
-Co-authored-by: vamansworld786-arch vamansworld786@gmail.com"
-git push
+Co-authored-by: Dippp10-ally <dipikabarkat@gmail.com>
